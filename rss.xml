@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[WestGate Foundation]]></title>
         <description><![CDATA[WestGate Foundation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/westgate-foundation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 23:15:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 23:18:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/westgate-foundation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>WestGate Foundation</p>]]></description>
-            <link>undefineddf824554-3bc9-4349-b847-c718da19d6f7/index.html</link>
+            <link>https://thegrid.ai/westgate-foundation/df824554-3bc9-4349-b847-c718da19d6f7/index.html</link>
             <guid isPermaLink="false">df824554-3bc9-4349-b847-c718da19d6f7</guid>
-            <pubDate>Wed, 10 Feb 2016 23:15:48 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 23:18:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
